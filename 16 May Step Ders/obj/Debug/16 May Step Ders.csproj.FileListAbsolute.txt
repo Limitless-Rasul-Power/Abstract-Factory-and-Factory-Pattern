@@ -1,0 +1,7 @@
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\bin\Debug\16 May Step Ders.exe.config
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\bin\Debug\16 May Step Ders.exe
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\bin\Debug\16 May Step Ders.pdb
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\obj\Debug\16 May Step Ders.csprojAssemblyReference.cache
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\obj\Debug\16 May Step Ders.csproj.CoreCompileInputs.cache
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\obj\Debug\16 May Step Ders.exe
+C:\Users\Osma_th97\source\repos\16 May Step Ders\16 May Step Ders\obj\Debug\16 May Step Ders.pdb
